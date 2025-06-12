@@ -1,4 +1,4 @@
 # repoPrueba
 Repositorio de prueba
 
-Registro del primer cambio en el repositorio de prueba #Junio 2025
+Registro del primer cambio en el repositorio de prueba EN LOCAL Junio 2025
